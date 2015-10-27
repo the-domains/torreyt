@@ -1,0 +1,23 @@
+name: torreyt
+favicon: null
+layout_spectrum: 0.2587014001328498
+typography_spectrum: 0.6569831981323659
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.054326789220795035
+  lightness: 0.7505071624182165
+  saturation: 0.14665826363489032
+  rhythmicContrast: 0.07917368039488792
+purpose: []
