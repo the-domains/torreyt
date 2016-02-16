@@ -1,7 +1,7 @@
 name: torreyt
 favicon: null
-layout_spectrum: 0.2579
-typography_spectrum: 0.26093
+layout_spectrum: 0.11896
+typography_spectrum: 0.75725
 title: Torrey Tayenaka
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#ff0000'
     - '#e31c1c'
     - '#bf0000'
-  brandStrength: 0.875
-  lightness: 1
-  saturation: 0.5
+  brandStrength: 0.6875
+  lightness: 0.75
+  saturation: 0.5625
   rhythmicContrast: 0.5
 purpose: []
